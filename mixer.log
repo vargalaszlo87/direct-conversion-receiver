@@ -1,0 +1,25 @@
+Circuit: * C:\Users\Daemon\Documents\GitHub\direct-conversion-receiver\mixer.asc
+
+WARNING: Node N004 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:1)
+
+Date: Mon Sep 21 20:01:23 2026
+Total elapsed time: 31.853 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6141859
+traniter = 6141827
+tranpoints = 2750821
+accept = 1949731
+rejected = 801090
+matrix size = 38
+fillins = 41
+solver = Normal
+Matrix Compiler1: 5.67 KB object code size  0.9/0.5/[0.3]
+Matrix Compiler2: off  [0.3]/0.7/0.9
+
